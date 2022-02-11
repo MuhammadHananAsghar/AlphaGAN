@@ -1,6 +1,9 @@
 # AlphaGAN
 A Stable GAN for 3-Channels Images
 
+## Description
+AlphaGAN usually supports 32px, 64px, 128px images. Usually training to the 20-25 epochs we got results.
+
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Latest Tensorflow Version.
 ```bash
