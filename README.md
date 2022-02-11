@@ -18,3 +18,15 @@ OUTPUT_PATH = "/"
 MODEL_PATH = '/'
 BATCH_SIZE = 96
 ```
+## Images
+Some of the images produced by AlphaGAN.
+
+## Animes
+![Animes](alphagan/images/anime.png)
+## Faces
+![Faces](alphagan/images/faces.png)
+
+
+```
+Implemented By Muhammad Hanan Asghar
+```
