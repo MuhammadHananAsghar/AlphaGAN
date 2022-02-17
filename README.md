@@ -28,6 +28,7 @@ Some of the images produced by AlphaGAN.
 ![Animes](alphagan/images/anime.png)
 ## Faces
 ![Faces](alphagan/images/faces.png)
+![Faces](alphagan/images/generated_plot.png)
 
 
 ```
